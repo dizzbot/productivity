@@ -1,5 +1,5 @@
 name: "Epic"
-description: Create an epic
+description: Outline a large body of work or project that is broken down.
 type: 'epic'
 body:
   - type: textarea
