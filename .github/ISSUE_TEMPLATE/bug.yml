@@ -1,0 +1,9 @@
+name: "Bug"
+description: Report an unexpected problem or unintended behavior.
+type: 'bug'
+body:
+  - type: textarea
+    id: Details and reproduction
+    attributes:
+      label: Details
+      description: "Describe the problem and reproduction steps."
