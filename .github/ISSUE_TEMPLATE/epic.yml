@@ -1,0 +1,14 @@
+name: "Epic"
+description: Create an epic
+type: 'epic'
+body:
+  - type: textarea
+    id: Summary
+    attributes:
+      label: Summary
+      description: "Brief summary of the scope of this epic."
+  - type: textarea
+    id: Resources
+    attributes:
+      label: Resources
+      description: "Outline the timeline and staffing plan."
