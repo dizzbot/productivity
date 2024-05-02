@@ -3,7 +3,7 @@ description: Report an unexpected problem or unintended behavior.
 type: 'bug'
 body:
   - type: textarea
-    id: Details and reproduction
+    id: Details
     attributes:
       label: Details
       description: "Describe the problem and reproduction steps."
