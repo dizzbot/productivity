@@ -1,0 +1,9 @@
+name: "Initiative"
+description: Outline a long running work stream that spans at least a quarter.
+type: 'initiative'
+body:
+  - type: textarea
+    id: Summary
+    attributes:
+      label: Summary
+      description: "Brief summary of the goal of this intiative."
