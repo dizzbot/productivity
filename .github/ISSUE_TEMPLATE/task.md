@@ -1,10 +1,10 @@
 ---
 name: Task
 about: Creating new tasks
-description: Opening a new task to be completed
 title: 'Task: <Short description>'
+labels: ''
 assignees: ''
-type: Task
+
 ---
 
 <!--
