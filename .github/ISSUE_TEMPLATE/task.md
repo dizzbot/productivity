@@ -4,6 +4,7 @@ about: Creating new tasks
 description: Opening a new task to be completed
 title: 'Task: <Short description>'
 assignees: ''
+type: Task
 ---
 
 <!--
